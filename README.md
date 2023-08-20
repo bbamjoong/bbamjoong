@@ -29,15 +29,21 @@
 <img src="https://img.shields.io/badge/Pycharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Python&logoColor=white"/>
+<br>
+<br>
 
+### ⚡GitHub stats⚡ 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bbamjoong&show_icons=true&theme=tokyonight) 
+<br>
+<br>
 
- 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bbamjoong&show_icons=true&theme=radical) 
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbamjoong&layout=compact&theme=dracula)](https://github.com/metleeha)
- 
-<hr>
+### ⚡Most used language⚡ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbamjoong&layout=compact&theme=tokyonight)](https://github.com/metleeha)
+<br> 
+<br>
 
+### ⚡Baekjoon solved rank⚡ 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rlaqjawnd625)](https://solved.ac/rlaqjawnd625)
 </div>
 
 
