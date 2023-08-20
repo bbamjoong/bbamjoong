@@ -1,7 +1,7 @@
 <div align=center><h1> Hello I'm BeomJung 👋 </h1></div>
 
 <div align=center>
-I'm dreaming of new experiences as a Backend-Developer
+<h4>I'm dreaming of new experiences as a Backend-Developer</h4>
  
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bbamjoong&show_icons=true&theme=radical) 
  
