@@ -9,6 +9,15 @@
 <br>
 <br>
 
+### 💬 About ME
+<a href="https://velog.io/@bbamjoong">
+    <img 
+        src="http://img.shields.io/badge/-Tech Velog-20C997?style=flat&logo=Velog&logoColor=white"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a> 
+<br>
+<br>
+
 ### ✨Tech Stack✨
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
