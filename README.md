@@ -1,4 +1,4 @@
-<div align=center><h1> ### Hello I'm BeomJung 👋 </h1></div>
+<div align=center><h2> Hello I'm BeomJung 👋 </h2></div>
 
 
 I'm dreaming of new experiences as a Backend-Developer
