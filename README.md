@@ -1,5 +1,5 @@
 <div align=center> 
-###Hello I'm BeomJung 👋 <br>
+<span style="font-size:250%">폰트사이즈 250</span> Hello I'm BeomJung 👋 <br>
 I'm dreaming of new experiences as a Backend-Developer
 </div>
 
