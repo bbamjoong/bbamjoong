@@ -6,12 +6,20 @@
 
 <!-- Image -->
 <img src = "https://mblogthumb-phinf.pstatic.net/MjAxODA4MjNfMTE1/MDAxNTM0OTk2NDEyMjk0.lLgbwqU5-Gl45xh_8UCo-_gi9ojF-DuEleG96L8c7Cwg.ml0o_4bCZBNbIglq8i423cGhgMVBfU9D7pUbZAarRLUg.GIF.yellowouk2/1534982060706.GIF?type=w800" width = 400>
-
 <br>
 <br>
 
-### 💬Tech Stack
+### ✨Tech Stack✨
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<br>
+<br>
 
+### ✨Tools✨
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pycharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Python&logoColor=white"/>
 
 
  
