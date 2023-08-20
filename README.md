@@ -1,3 +1,4 @@
+<div align=center>
 ### Hi there 👋
 - 🌱 I’m currently learning ...
 <!--
