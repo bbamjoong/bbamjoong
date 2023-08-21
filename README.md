@@ -39,11 +39,13 @@
 
 ### ⚡Most used language⚡ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbamjoong&layout=compact&theme=tokyonight)](https://github.com/metleeha)
+
 <br> 
 <br>
 
 ### ⚡Baekjoon solved rank⚡ 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rlaqjawnd625)](https://solved.ac/rlaqjawnd625)
+
 </div>
 
 
