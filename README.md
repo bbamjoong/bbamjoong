@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pycharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
 <br>
 <br>
 
