@@ -38,6 +38,11 @@
 <br>
 <br>
 
+### ⚡Language⚡ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbamjoong&layout=compact)](https://github.com/bbamjoong/github-readme-stats)
+<br>
+<br>
+
 ### ⚡GitHub stats⚡ 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bbamjoong&show_icons=true&theme=tokyonight) 
 <br>
