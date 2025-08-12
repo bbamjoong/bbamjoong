@@ -1,3 +1,11 @@
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=bbamjoong&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/bbamjoong"
+  width="600"
+  height="300"
+/>
+</a>
+
 <!--
 <div align=center><h1> Hello! I'm Kim - BeomJung 👋 </h1></div>
 <div align=center> 
