@@ -1,4 +1,4 @@
-[Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rlaqjawnd625)](https://solved.ac/rlaqjawnd625)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rlaqjawnd625)](https://solved.ac/rlaqjawnd625)
  
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=bbamjoong&utm_content=farm">
 <img
