@@ -45,7 +45,7 @@
 <br>
 <!--
 ### ⚡Baekjoon solved rank⚡ 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rlaqjawnd625)](https://solved.ac/rlaqjawnd625)
+[Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rlaqjawnd625)](https://solved.ac/rlaqjawnd625)
 <br>
 <br>
 <!--
