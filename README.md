@@ -1,6 +1,5 @@
-[Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rlaqjawnd625)](https://solved.ac/rlaqjawnd625)
-<br>
-
+ [Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rlaqjawnd625)](https://solved.ac/rlaqjawnd62 bbb 5)
+ 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=bbamjoong&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/bbamjoong"
