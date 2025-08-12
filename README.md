@@ -43,7 +43,7 @@
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
 <br>
 <br>
-<!--
+
 ### ⚡Baekjoon solved rank⚡ 
 [Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rlaqjawnd625)](https://solved.ac/rlaqjawnd625)
 <br>
